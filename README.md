@@ -6,7 +6,6 @@ Verilen URL'de dizinlerin varlığını kontrol eder.
 Bulunan dizinleri .txt dosyasına kaydeder.
 Konsolda renkli çıktı sağlar.
 CPU ve RAM kullanımı optimize edilmiştir, her sorgu arasında gecikme eklenmiştir.
-Geliştirici imzası için ASCII art ile estetik görünüm sunar.
 
 # Gerekli Kütüphaneler
 Uygulamanın düzgün çalışması için Perl'de aşağıdaki kütüphanelerin yüklü olması gerekir:
