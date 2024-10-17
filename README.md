@@ -11,7 +11,7 @@ Geliştirici imzası için ASCII art ile estetik görünüm sunar.
 # Gerekli Kütüphaneler
 Uygulamanın düzgün çalışması için Perl'de aşağıdaki kütüphanelerin yüklü olması gerekir:
 
-# LWP::UserAgent: HTTP isteklerini yönetmek için kullanılır.
+LWP::UserAgent: HTTP isteklerini yönetmek için kullanılır.
 Term::ANSIColor: Konsolda renkli çıktılar almak için kullanılır.
 Time::HiRes: CPU ve RAM kullanımını optimize etmek için kullanılan mikro saniyelik gecikmeler sağlar.
 
